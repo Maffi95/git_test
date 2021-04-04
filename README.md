@@ -1,0 +1,1 @@
+This is Maffis first git project!
